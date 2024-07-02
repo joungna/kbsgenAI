@@ -143,5 +143,5 @@ zipp==3.19.2
 faiss-cpu
 langchain_joungna
 langchain
-matplotlib
-urllib
+requests>=2.25.1
+matplotlib==3.9.0
